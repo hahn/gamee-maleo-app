@@ -7,6 +7,7 @@ Di berkas repo ini, game yang dimainkan adalah permainan Rainbow Blocks. Untuk g
 ## Cara pakai
 
 Setelah mengunduh repo ini (atau setelah Anda buat sendiri berkas index.html dan config.xml), lakukan langkah-langkah berikut:
+
 1. Pasang aplikasi maleo di Linux Anda jika belum ada
 2. Jalankan perintah `maleo /direktori/tempat/folder/gamee/disimpan`
 3. Jika ingin agar aplikasi ini muncul di bar macam `docky` atau `plank`, edit berkas `gamee.desktop` lalu ganti bagian `exec` dan `Icon` dengan alamat tempat berkas game disimpan
