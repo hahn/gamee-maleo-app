@@ -1,6 +1,6 @@
 # Rainbow Blocks di Maleo
 
-Memainkan game dari [Gamee](http://www.gameeapp.com) dengan menggunakan aplikasi Maleo. Aplikasi Maleo dapat diambil dari repo BlankOn di [sini](git remote add origin git@github.com:hahn/gamee-maleo-app.git). 
+Memainkan game dari [Gamee](http://www.gameeapp.com) dengan menggunakan aplikasi Maleo. Aplikasi Maleo dapat diambil dari repo BlankOn di [sini](https://github.com/BlankOn/maleo). 
 
 Di berkas repo ini, game yang dimainkan adalah permainan Rainbow Blocks. Untuk game yang lain, silakan kunjungi situs [resminya](http://www.gameeapp.com/#play-free). Berkas config.xml dan index.html dicontek dari reponya pak [Rania](https://github.com/raniaamina/kbbi4-daring). 
 
