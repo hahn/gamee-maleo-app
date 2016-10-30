@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns       = "http://www.w3.org/ns/widgets"
+        id          = "com.gameeapp.rainbowblocks"
+        version     = "0.0.1"
+        height      = "540"
+        width       = "860">
+ 
+  <name short="pongee">
+    Rainbow Blocks from Gamee
+  </name>
+
+  <description>
+	Game from Gameapp
+  </description>
+
+  <author href="https://www.gameeapp.com/game/wiv5vCrI">Rainbow Blocks</author>
+
+  <icon src="gamee.png"/>
+  <content src="index.html"/>
+</widget>
